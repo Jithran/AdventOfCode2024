@@ -7,7 +7,11 @@ $config = [
 
 $challenges = [
     1 => [
-        'title' => 'Day 1: Secret Entrance',
-        'description' => 'Open up the safe',
+        'title' => 'Day 1: Historian Hysteria',
+        'description' => 'measure team differences',
+    ],
+    2 => [
+        'title' => 'Day 2: Red-Nosed Reports',
+        'description' => 'Red-Nosed Reindeer nuclear fusion/fission plant reports analysis',
     ],
 ];
