@@ -14,4 +14,8 @@ $challenges = [
         'title' => 'Day 2: Red-Nosed Reports',
         'description' => 'Red-Nosed Reindeer nuclear fusion/fission plant reports analysis',
     ],
+    3 => [
+        'title' => 'Day 3: Mull It Over',
+        'description' => 'Fix corrupted memory manipulation instructions',
+    ],
 ];
