@@ -18,4 +18,9 @@ $challenges = [
         'title' => 'Day 3: Mull It Over',
         'description' => 'Fix corrupted memory manipulation instructions',
     ],
+    4 => [
+        'title' => 'Day 4: Ceres Search',
+        'description' => 'Crosspuzzle pathfinding on Ceres',
+    ],
 ];
+ 
